@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[2.9.1.me201210181829]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/spring-ioc.xml</config>
+		<config>src/main/resources/spring-inject-constructor.xml</config>
+		<config>src/main/resources/spring-beanscope.xml</config>
+		<config>src/main/resources/spring-bean-lifecycle.xml</config>
+		<config>src/main/resources/spring-bean-annotation.xml</config>
+		<config>src/main/resources/config.xml</config>
+		<config>src/main/resources/spring-aop-advice.xml</config>
+		<config>src/main/resources/spring-aop-aspectj.xml</config>
+		<config>src/main/resources/my-demo.xml</config>
+	</configs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
